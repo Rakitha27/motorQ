@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/benz</item>
+        <item>@drawable/bmw</item>
+        <item>@drawable/buggati</item>
+        <item>@drawable/ferrari</item>
+        <item>@drawable/jaguar</item>
+        <item>@drawable/mercedes</item>
+        <item>@drawable/lamborghini</item>
+        <item>@drawable/mercedes</item>
+        <item>@drawable/ford</item>
+        <item>@drawable/kawasaki</item>
+        <item>@drawable/lexus</item>
+        <item>@drawable/acura</item>
+        <item>@drawable/bently</item>
+        <item>@drawable/buick</item>
+        <item>@drawable/dodge</item>
+        <item>@drawable/fiat</item>
+        <item>@drawable/kia</item>
+        <item>@drawable/lotus</item>
+        <item>@drawable/mazda</item>
+        <item>@drawable/mercury</item>
+        <item>@drawable/polestar</item>
+        <item>@drawable/porsche</item>
+        <item>@drawable/telsa</item>
+        <item>@drawable/volvo</item>
+        <item>@drawable/chevrolet</item>
+        <item>@drawable/genesis</item>
+        <item>@drawable/nissan</item>
+        <item>@drawable/pontiac</item>
+        <item>@drawable/rollsroyce</item>
+        <item>@drawable/scion</item>
+        <item>@drawable/subaru</item>
+        <item>@drawable/volkswagen</item>
+
+    </array>
+    <array name="nameList">
+        <item>benz</item>
+        <item>BMW</item>
+        <item>buggati</item>
+        <item>ferrari</item>
+        <item>jaguar</item>
+        <item>mercedes</item>
+        <item>lamborghini</item>
+        <item>mercedes</item>
+        <item>ford</item>
+        <item>kawasaki</item>
+        <item>lexus</item>
+        <item>acura</item>
+        <item>bently</item>
+        <item>buick</item>
+        <item>dodge</item>
+        <item>fiat</item>
+        <item>kia</item>
+        <item>lotus</item>
+        <item>mazda</item>
+        <item>mercury</item>
+        <item>polestar</item>
+        <item>porsche</item>
+        <item>telsa</item>
+        <item>volvo</item>
+        <item>chevrolet</item>
+        <item>genesis</item>
+        <item>nissan</item>
+        <item>pontiac</item>
+        <item>rollsroyce</item>
+        <item>scion</item>
+        <item>subaru</item>
+        <item>volkswagen</item>
+
+    </array>
+</resources>

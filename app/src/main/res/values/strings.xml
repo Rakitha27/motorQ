@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Coursework One</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="identify_the_car_make">Identify the car make</string>
+    <string name="hint">Hint</string>
+    <string name="identify_the_car_image">Identify the car image</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="IDENTIFY">IDENTIFY</string>
+    <string name="next">NEXT</string>
+    <string name="reset">reset</string>
+    <string name="todo">TODO</string>
+    <string name="img2">img2</string>
+    <string name="img3">img3</string>
+    <string name="img1">img1</string>
+    <string name="submit">SUBMIT</string>
+    <string name="score">SCORE : 0</string>
+    <string name="identify">IDENTIFY</string>
+    <string name="motorq">motorQ</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="submit1">Submit</string>
+    <string name="_20">20</string>
+
+
+</resources>
